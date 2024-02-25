@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bazel Alsrati</h1>
+<h1 align="center">Bazel Alsrati</h1>
 <h3 align="center">I'm a student in the Faculty of Computers and Informatics at Thamar University</h3>
 
 - 📫 How to reach me **engineer9096@gmail.com**
